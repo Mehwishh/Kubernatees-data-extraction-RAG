@@ -1,0 +1,2 @@
+"""Streamlit chat interface entrypoint."""
+

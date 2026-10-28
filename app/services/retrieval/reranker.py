@@ -1,0 +1,2 @@
+"""FlashRank result reranking adapter."""
+

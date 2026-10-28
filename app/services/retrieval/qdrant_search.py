@@ -1,0 +1,2 @@
+"""Qdrant vector search adapter."""
+
